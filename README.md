@@ -1,12 +1,13 @@
-# Odin Project
+# Odin Project Practice
 
-This repository has all my practice projects from The Odin Project curriculum:
+This repository contains all my practice projects from The Odin Project curriculum:
 
-## 🔗 **Projects Included**
+## 📂 **Project Structure**
 
-1. **Git Test** - A test repository for practicing Git commands.
-2. **Recipes** - Basic HTML practice with recipe links.
-3. **Landing Page** - A static landing page with HTML & CSS.
-4. **Error Exercise** - Practice with debugging and error handling.
-5. **Rock Paper Scissors** - A simple game built with JavaScript.
-
+```plaintext
+foundation/
+├─ 01-git-test/            # Practice repository for Git commands
+├─ 02-recipes/             # Basic HTML project with recipe links
+├─ 03-landing-page/        # Static landing page with HTML & CSS
+├─ 04-error-exercise/      # Debugging and error handling practice
+└─ 05-rock-paper-scissors/ # Simple JavaScript game implementation
