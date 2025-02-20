@@ -1,6 +1,6 @@
 # Odin Project
 
-This repository consolidates my practice projects from The Odin Project curriculum:
+This repository has all my practice projects from The Odin Project curriculum:
 
 ## 🔗 **Projects Included**
 
