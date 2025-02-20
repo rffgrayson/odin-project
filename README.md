@@ -4,8 +4,9 @@ This repository consolidates my practice projects from The Odin Project curricul
 
 ## 🔗 **Projects Included**
 
-1. **[Git Test](./01-git-test)** - A test repository for practicing Git commands.
-2. **[Recipes](./02-recipes)** - Basic HTML practice with recipe links.
-3. **[Landing Page](./03-landing-page)** - A static landing page with HTML & CSS.
-4. **[Error Exercise](./04-error-exercise)** - Practice with debugging and error handling.
-5. **[Rock Paper Scissors](./05-rock-paper-scissors)** - A simple game built with JavaScript.
+1. **[Git Test](https://github.com/rffkive/git_test)** - A test repository for practicing Git commands.
+2. **[Recipes](https://github.com/rffkive/odin-recipes)** - Basic HTML practice with recipe links.
+3. **[Landing Page](https://github.com/rffkive/odin-landing-page)** - A static landing page with HTML & CSS.
+4. **[Error Exercise](https://github.com/rffkive/odin-error-exercise)** - Practice with debugging and error handling.
+5. **[Rock Paper Scissors](https://github.com/rffkive/odin-rock-paper-scissors)** - A simple game built with JavaScript.
+
