@@ -15,3 +15,6 @@
 	url = git@github.com:rffkive/odin-rock-paper-scissors.git
 [submodule "git_test"]
 	url = https://github.com/rffkive/git_test.git
+[submodule "2.5-css-exercises"]
+	path = 2.5-css-exercises
+	url = git@github.com:rffkive/css-exercises.git
