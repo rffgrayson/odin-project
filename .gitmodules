@@ -1,0 +1,15 @@
+[submodule "01-git-test"]
+	path = 01-git-test
+	url = git@github.com:rffkive/git_test.git
+[submodule "02-recipes"]
+	path = 02-recipes
+	url = git@github.com:rffkive/odin-recipes.git
+[submodule "03-landing-page"]
+	path = 03-landing-page
+	url = git@github.com:rffkive/odin-landing-page.git
+[submodule "04-error-exercise"]
+	path = 04-error-exercise
+	url = git@github.com:rffkive/odin-error-exercise.git
+[submodule "05-rock-paper-scissors"]
+	path = 05-rock-paper-scissors
+	url = git@github.com:rffkive/odin-rock-paper-scissors.git
