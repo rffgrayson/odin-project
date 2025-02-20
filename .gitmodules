@@ -13,3 +13,5 @@
 [submodule "05-rock-paper-scissors"]
 	path = 05-rock-paper-scissors
 	url = git@github.com:rffkive/odin-rock-paper-scissors.git
+[submodule "git_test"]
+	url = https://github.com/rffkive/git_test.git
