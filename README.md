@@ -114,27 +114,6 @@ I use **Xubuntu** as my primary development environment for The Odin Project cur
 
 ## 📊 Curriculum Progress
 
-<table>
-  <tr>
-    <td><strong>Foundations Path</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/90/" alt="90%">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>HTML & CSS</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/100/" alt="100%">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript Basics</strong></td>
-    <td>
-      <img src="https://progress-bar.dev/80/" alt="80%">
-    </td>
-  </tr>
-</table>
-
 - ✅ HTML Foundations
 - ✅ CSS Foundations & Flexbox
 - ✅ JavaScript Basics
