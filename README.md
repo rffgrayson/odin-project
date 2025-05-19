@@ -1,15 +1,16 @@
 <div align="center">
   <img src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt="Odin Project Logo" width="300"/>
-  <h1>My Full Stack Journey: The Odin Project</h1>
+  <h1>My Web Development Portfolio: The Odin Project</h1>
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project?style=for-the-badge)](https://github.com/rffkive/odin-project/commits/main)
   [![Curriculum Progress](https://img.shields.io/badge/Progress-JavaScript_Foundations-orange?style=for-the-badge)](https://www.theodinproject.com/)
-  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-6-success?style=for-the-badge)](#projects-showcase)
+  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-3-success?style=for-the-badge)](#projects-showcase)
+  [![Development Environment](https://img.shields.io/badge/Dev_Environment-Xubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://xubuntu.org/)
 </div>
 
 ## 📚 About This Repository
 
-This repository documents my journey through [The Odin Project](https://www.theodinproject.com/) curriculum - a free, open-source coding education platform. Each project represents key learning milestones as I build my full-stack development skills from the ground up.
+This repository showcases my best projects from [The Odin Project](https://www.theodinproject.com/) curriculum. I've curated this collection to highlight projects that demonstrate significant skills and complexity, focusing on quality over quantity as I build my web development portfolio.
 
 ## 🌟 Learning Philosophy
 
@@ -20,81 +21,87 @@ I believe in learning by doing, which is why The Odin Project's project-based cu
 - Coding patterns and best practices learned
 - Growth in my developer toolkit
 
-## 🛠️ Projects Showcase
+## 🛠️ Featured Projects
 
 <table>
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Skills Practiced</th>
+    <th>Skills Demonstrated</th>
     <th>Live Demo</th>
     <th>Status</th>
   </tr>
   <tr>
-    <td><a href="./foundations/git-test">📋 Git Test</a></td>
-    <td>Initial repository exploring Git commands, branches, and version control workflow</td>
-    <td>Git, Command Line</td>
-    <td><a href="https://github.com/rffkive/git_test">View Code</a></td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td><a href="./foundations/recipes">📝 Recipes</a></td>
-    <td>A basic recipe website showcasing fundamental HTML structure, links, and images</td>
-    <td>HTML, Git, Semantic Markup</td>
-    <td><a href="https://rffkive.github.io/odin-recipes">Live Demo</a></td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td><a href="./foundations/landing-page">🏞️ Landing Page</a></td>
-    <td>A static landing page implementing flexbox layout and responsive design principles</td>
-    <td>HTML, CSS, Flexbox, Responsive Design</td>
+    <td><a href="./projects/landing-page">🏞️ Landing Page</a></td>
+    <td>A professional landing page with hero section, feature highlights, testimonials, and call-to-action sections</td>
+    <td>HTML, CSS, Flexbox, Responsive Design, Color Theory</td>
     <td><a href="https://rffkive.github.io/odin-landing-page">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="./foundations/error-exercise">🐛 Error Exercise</a></td>
-    <td>Debugging practice with common JavaScript errors and how to resolve them</td>
-    <td>JavaScript, Debugging, Dev Tools</td>
-    <td><a href="https://github.com/rffkive/odin-error-exercise">View Code</a></td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td><a href="./foundations/rock-paper-scissors">🎮 Rock Paper Scissors</a></td>
-    <td>Interactive game implementing JavaScript logic and DOM manipulation with clean UI</td>
-    <td>JavaScript, DOM, Event Handling, UI Design</td>
+    <td><a href="./projects/rock-paper-scissors">🎮 Rock Paper Scissors</a></td>
+    <td>Interactive game implementing JavaScript logic, event handling, and score tracking with an engaging UI</td>
+    <td>JavaScript, DOM Manipulation, Event Handling, Game Logic, UI Design</td>
     <td><a href="https://rffkive.github.io/odin-rock-paper-scissors">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="./foundations/etch-a-sketch">🎨 Etch-a-Sketch</a></td>
-    <td>Interactive drawing board with dynamic grid generation, multiple color modes, and responsive design</td>
-    <td>JavaScript, DOM, Events, CSS Grid, UI/UX</td>
+    <td><a href="./projects/etch-a-sketch">🎨 Etch-a-Sketch</a></td>
+    <td>Feature-rich drawing application with dynamic grid sizing, multiple color modes (classic, rainbow, shade), and a clean UI</td>
+    <td>Advanced DOM Manipulation, Event Delegation, CSS Grid, UI/UX Design</td>
     <td><a href="https://rffkive.github.io/odin-etch-a-sketch">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
+  <tr>
+    <td><a href="./projects/calculator">🧮 Calculator</a></td>
+    <td>Mathematical calculator with standard operations, keyboard support, and error handling</td>
+    <td>JavaScript Logic, UI State Management, Event Handling, Math Operations</td>
+    <td>Coming Soon</td>
+    <td>🔄 In Progress</td>
+  </tr>
 </table>
+
+## 📁 Additional Learning Projects
+
+These smaller projects represent early learning milestones but are not featured in the main portfolio:
+
+- **[HTML Recipes](https://github.com/rffkive/odin-recipes)** - First HTML project with basic structure and links
+- **[Git Practice](https://github.com/rffkive/git_test)** - Initial repository for learning Git commands
+- **[Error Exercise](https://github.com/rffkive/odin-error-exercise)** - Debugging practice with JavaScript
 
 ## 📂 Repository Structure
 
 ```
-foundations/
-├─ git-test/               # Practice repository for Git commands and workflow
-├─ recipes/                # Basic HTML project showcasing recipe links and images
-├─ landing-page/           # Responsive landing page using flexbox layout
-├─ error-exercise/         # Debugging practice and error handling techniques
-├─ rock-paper-scissors/    # Interactive JavaScript game with UI elements
-├─ etch-a-sketch/          # Dynamic grid-based drawing board with custom controls
-└─ calculator/             # [In Progress] JavaScript calculator with UI
+odin-project/
+├─ projects/                # Main featured projects
+│  ├─ landing-page/         # Flexbox-based responsive landing page 
+│  ├─ rock-paper-scissors/  # Interactive JavaScript game
+│  ├─ etch-a-sketch/        # Advanced drawing application
+│  └─ calculator/           # [In Progress] JavaScript calculator
+│
+├─ learning/                # Smaller learning exercises (optional directory)
+│  ├─ git-test/             # Git command practice
+│  ├─ recipes/              # Basic HTML exercise
+│  └─ error-exercise/       # JavaScript debugging practice
+│
+└─ resources/               # Development environment configs
+   └─ xubuntu-setup/        # Linux development environment setup
 ```
 
-## 🧩 Additional Completed Work
+## 💻 Development Environment
 
-Beyond the main projects, I've also completed:
+I use **Xubuntu** as my primary development environment for The Odin Project curriculum. This lightweight Linux distribution provides an excellent platform for web development with:
 
-- **JavaScript Exercises** - Solved all foundation JavaScript algorithm challenges
-- **Git Basics** - Version control workflow with branches, commits, and merges
-- **Developer Tools** - Browser dev tools for debugging, performance analysis, and accessibility testing
-- **Code Reviews** - Participated in peer code reviews for feedback and improvement
+- **Performance**: Fast and responsive even on modest hardware
+- **Development Tools**: Built-in terminal and Linux toolchain
+- **Customizability**: Configured specifically for web development
+- **Stability**: Based on Ubuntu LTS for reliability
+
+### My Xubuntu Dev Setup
+- **OS**: Xubuntu 22.04 LTS
+- **Editor**: Visual Studio Code with web development extensions
+- **Terminal**: Xfce Terminal with custom aliases for development
+- **Browsers**: Firefox Developer Edition & Chrome for cross-browser testing
 
 ## 💡 Key Skills Developed
 
@@ -103,65 +110,51 @@ Beyond the main projects, I've also completed:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 </div>
 
-### Technical Skills
-- **Semantic HTML** - Building structured, accessible web documents
-- **CSS Layouts** - Implementing responsive designs with flexbox and grid
-- **JavaScript Core** - Variables, functions, arrays, objects, loops, and DOM manipulation
-- **Algorithmic Thinking** - Problem decomposition and efficient solution development
-- **Developer Workflow** - Git branching, committing, and project organization
+### Technical Competencies
+- **Front-End Fundamentals**: Semantic HTML, CSS layouts and styling, responsive design principles
+- **JavaScript Proficiency**: DOM manipulation, event handling, logic implementation, state management
+- **UI/UX Design**: Creating intuitive interfaces, visual feedback systems, and engaging interactions
+- **Dev Environment Mastery**: Linux-based workflow, command line proficiency, version control
+- **Problem-Solving**: Breaking down complex requirements, debugging, and implementing solutions
 
-## 📈 Progress Tracking
+## 📊 Curriculum Progress
 
 <table>
   <tr>
-    <td><strong>Foundations</strong></td>
+    <td><strong>Foundations Path</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/90/" alt="90%">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HTML & CSS</strong></td>
     <td>
       <img src="https://progress-bar.dev/100/" alt="100%">
     </td>
   </tr>
   <tr>
-    <td>HTML Foundations</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>CSS Foundations</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>Flexbox</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>JavaScript Basics</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>JavaScript Developer Tools</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>JavaScript Fundamentals Part 1-3</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>Problem Solving</td>
-    <td>✅ Complete</td>
-  </tr>
-  <tr>
-    <td>JavaScript Fundamentals Part 4 (Calculator Project)</td>
-    <td>🔄 In Progress</td>
+    <td><strong>JavaScript Basics</strong></td>
+    <td>
+      <img src="https://progress-bar.dev/80/" alt="80%">
+    </td>
   </tr>
 </table>
 
+- ✅ HTML Foundations
+- ✅ CSS Foundations & Flexbox
+- ✅ JavaScript Basics
+- ✅ DOM Manipulation
+- ✅ Problem-Solving Fundamentals
+- 🔄 Advanced JavaScript (Calculator Project)
+
 ## 🔗 Resources & References
 
-- [The Odin Project](https://www.theodinproject.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
+- [The Odin Project](https://www.theodinproject.com/) 
+- [MDN Web Docs](https://developer.mozilla.org/) 
 - [JavaScript.info](https://javascript.info/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [w3school](https://www.w3schools.com/) 
+- [W3schools](https://www.w3schools.com/)
+- [Xubuntu](https://xubuntu.org/)
