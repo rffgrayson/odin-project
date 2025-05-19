@@ -127,4 +127,3 @@ I use **Xubuntu** as my primary development environment for The Odin Project cur
 - [MDN Web Docs](https://developer.mozilla.org/) 
 - [JavaScript.info](https://javascript.info/)
 - [W3schools](https://www.w3schools.com/)
-- [Xubuntu](https://xubuntu.org/)
