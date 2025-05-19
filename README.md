@@ -1,10 +1,8 @@
-# 🚀 The Odin Project Journey
-
 <div align="center">
   <img src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt="Odin Project Logo"/>
   <h3>My learning path through The Odin Project curriculum</h3>
   
-  [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project-practice?style=for-the-badge)](https://github.com/rffkive/odin-project-practice/commits/main)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project?style=for-the-badge)](https://github.com/rffkive/odin-project-practice/commits/main)
   [![Curriculum Progress](https://img.shields.io/badge/Progress-Foundations-orange?style=for-the-badge)](https://www.theodinproject.com/)
 </div>
 
