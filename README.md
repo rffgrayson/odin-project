@@ -12,15 +12,6 @@
 
 This repository showcases my best projects from [The Odin Project](https://www.theodinproject.com/) curriculum. I've curated this collection to highlight projects that demonstrate significant skills and complexity, focusing on quality over quantity as I build my web development portfolio.
 
-## 🌟 Learning Philosophy
-
-I believe in learning by doing, which is why The Odin Project's project-based curriculum resonates with me. Each completed project represents:
-
-- Skills applied in real-world scenarios
-- Problem-solving techniques developed
-- Coding patterns and best practices learned
-- Growth in my developer toolkit
-
 ## 🛠️ Featured Projects
 
 <table>
