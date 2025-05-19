@@ -1,7 +1,7 @@
 # 🚀 The Odin Project Journey
 
 <div align="center">
-  <img src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg" alt="Odin Project Logo" width="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*chhKo9KEel7n7hi0O_cEPA.png" alt="Odin Project Logo" width="200"/>
   <h3>My learning path through The Odin Project curriculum</h3>
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project-practice?style=for-the-badge)](https://github.com/rffkive/odin-project-practice/commits/main)
