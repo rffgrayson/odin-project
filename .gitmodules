@@ -18,3 +18,9 @@
 [submodule "2.5-css-exercises"]
 	path = 2.5-css-exercises
 	url = git@github.com:rffkive/css-exercises.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/rffkive/odin-etch-a-sketch.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/rffkive/odin-calculator.git
