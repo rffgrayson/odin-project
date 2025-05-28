@@ -47,8 +47,8 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td><a href="./projects/calculator">🧮 Calculator</a></td>
     <td>Mathematical calculator with standard operations, keyboard support, and error handling</td>
     <td>JavaScript Logic, UI State Management, Event Handling, Math Operations</td>
-    <td>Coming Soon</td>
-    <td>🔄 In Progress</td>
+    <td><a href="https://github.com/rffkive/odin-calculator/deployments/github-pages">Live Demo</a></td>
+    <td>✅ Complete</td>
   </tr>
 </table>
 
