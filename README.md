@@ -68,7 +68,7 @@ odin-project/
 │  ├─ landing-page/         # Flexbox-based responsive landing page 
 │  ├─ rock-paper-scissors/  # Interactive JavaScript game
 │  ├─ etch-a-sketch/        # Advanced drawing application
-│  └─ calculator/           # [In Progress] JavaScript calculator
+│  └─ calculator/           # JavaScript calculator
 │
 ├─ learning/                # Smaller learning exercises (optional directory)
 │  ├─ git-test/             # Git command practice
