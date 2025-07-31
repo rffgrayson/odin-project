@@ -24,3 +24,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/rffkive/odin-calculator.git
+[submodule "odin-sign-up-form"]
+	path = odin-sign-up-form
+	url = https://github.com/rffkive/odin-sign-up-form
