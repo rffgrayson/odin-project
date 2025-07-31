@@ -27,3 +27,6 @@
 [submodule "odin-sign-up-form"]
 	path = odin-sign-up-form
 	url = https://github.com/rffkive/odin-sign-up-form
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = https://github.com/rffkive/javascript-exercises
