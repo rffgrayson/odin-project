@@ -3,8 +3,8 @@
   <h1>My Web Development Portfolio: The Odin Project</h1>
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project?style=for-the-badge)](https://github.com/rffkive/odin-project/commits/main)
-  [![Curriculum Progress](https://img.shields.io/badge/Progress-JavaScript_Foundations-orange?style=for-the-badge)](https://www.theodinproject.com/)
-  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-3-success?style=for-the-badge)](#projects-showcase)
+  [![Curriculum Progress](https://img.shields.io/badge/Progress-intermediate_HTML_and_CSS-orange?style=for-the-badge)](https://www.theodinproject.com/)
+  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-5-success?style=for-the-badge)](#projects-showcase)
   [![Development Environment](https://img.shields.io/badge/Dev_Environment-Xubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://xubuntu.org/)
 </div>
 
@@ -47,8 +47,15 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td><a href="./projects/calculator">🧮 Calculator</a></td>
     <td>Mathematical calculator with standard operations, keyboard support, and error handling</td>
     <td>JavaScript Logic, UI State Management, Event Handling, Math Operations</td>
-    <td>Coming Soon</td>
-    <td>🔄 In Progress</td>
+    <td><a href="https://github.com/rffkive/odin-calculator/deployments/github-pages">Live Demo</a></td>
+    <td>✅ Complete</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rffkive/sign-up-form">📄 Sign-Up Form</a></td>
+    <td>A form validation project featuring real-time feedback and clean layout using modern CSS practices</td>
+    <td>HTML5 Forms, CSS Grid, Form Validation, UX Design</td>
+    <td><a href="https://rffkive.github.io/sign-up-form/">Live Demo</a></td>
+    <td>✅ Complete</td>
   </tr>
 </table>
 
@@ -68,7 +75,7 @@ odin-project/
 │  ├─ landing-page/         # Flexbox-based responsive landing page 
 │  ├─ rock-paper-scissors/  # Interactive JavaScript game
 │  ├─ etch-a-sketch/        # Advanced drawing application
-│  └─ calculator/           # [In Progress] JavaScript calculator
+│  └─ calculator/           # JavaScript calculator
 │
 ├─ learning/                # Smaller learning exercises (optional directory)
 │  ├─ git-test/             # Git command practice
