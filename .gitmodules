@@ -30,3 +30,6 @@
 [submodule "javascript-exercises"]
 	path = javascript-exercises
 	url = https://github.com/rffkive/javascript-exercises
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/rffkive/admin-dashboard
