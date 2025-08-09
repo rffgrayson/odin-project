@@ -23,28 +23,28 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <th>Status</th>
   </tr>
   <tr>
-    <td><a href="./projects/landing-page">🏞️ Landing Page</a></td>
+    <td><a href="https://github.com/rffkive/odin-landing-page">🏞️ Landing Page</a></td>
     <td>A professional landing page with hero section, feature highlights, testimonials, and call-to-action sections</td>
     <td>HTML, CSS, Flexbox, Responsive Design, Color Theory</td>
     <td><a href="https://rffkive.github.io/odin-landing-page">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="./projects/rock-paper-scissors">🎮 Rock Paper Scissors</a></td>
+    <td><a href="https://github.com/rffkive/odin-calculator">🎮 Rock Paper Scissors</a></td>
     <td>Interactive game implementing JavaScript logic, event handling, and score tracking with an engaging UI</td>
     <td>JavaScript, DOM Manipulation, Event Handling, Game Logic, UI Design</td>
     <td><a href="https://rffkive.github.io/odin-rock-paper-scissors">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="./projects/etch-a-sketch">🎨 Etch-a-Sketch</a></td>
+    <td><a href="https://github.com/rffkive/odin-etch-a-sketch">🎨 Etch-a-Sketch</a></td>
     <td>Feature-rich drawing application with dynamic grid sizing, multiple color modes (classic, rainbow, shade), and a clean UI</td>
     <td>Advanced DOM Manipulation, Event Delegation, CSS Grid, UI/UX Design</td>
     <td><a href="https://rffkive.github.io/odin-etch-a-sketch">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="./projects/calculator">🧮 Calculator</a></td>
+    <td><a href="https://github.com/rffkive/odin-calculator">🧮 Calculator</a></td>
     <td>Mathematical calculator with standard operations, keyboard support, and error handling</td>
     <td>JavaScript Logic, UI State Management, Event Handling, Math Operations</td>
     <td><a href="https://github.com/rffkive/odin-calculator/deployments/github-pages">Live Demo</a></td>
@@ -83,6 +83,8 @@ odin-project/
 │  ├─ rock-paper-scissors/  # Interactive JavaScript game
 │  ├─ etch-a-sketch/        # Advanced drawing application
 │  └─ calculator/           # JavaScript calculator
+│  └─ sign-up-form/         # sign up form with a proper grid
+│  └─ admin-dashboard/      # Admin dashboard with advanced grid
 │
 ├─ learning/                # Smaller learning exercises (optional directory)
 │  ├─ git-test/             # Git command practice
