@@ -57,6 +57,10 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td><a href="https://rffkive.github.io/sign-up-form/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/rffkive/admin-dashboard">🧮 Admin dashboard</a></td>
+    <td>Admin dashboard with a proper grid layout and good hover effect</td>
+    <td>Advanced Grids, UI UX design</td>
     <td><a href="https://rffkive.github.io/admin-dashboard/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
