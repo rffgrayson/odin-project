@@ -4,7 +4,7 @@
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project?style=for-the-badge)](https://github.com/rffkive/odin-project/commits/main)
   [![Curriculum Progress](https://img.shields.io/badge/Progress-Javascript-orange?style=for-the-badge)](https://www.theodinproject.com/)
-  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-6-success?style=for-the-badge)](#projects-showcase)
+  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-7-success?style=for-the-badge)](#projects-showcase)
   [![Development Environment](https://img.shields.io/badge/Dev_Environment-Xubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://xubuntu.org/)
 </div>
 
@@ -57,13 +57,16 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td><a href="https://rffkive.github.io/sign-up-form/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
-   <tr>
-    <td><a href="./projects/calculator">🧮 Calculator</a></td>
-    <td>Admin dashboard with a proper grid layout and good hover effect</td>
-    <td>Advanced Grids, UI UX design</td>
     <td><a href="https://rffkive.github.io/admin-dashboard/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
+  <tr>
+  <td><a href="https://github.com/rffkive/odin-library" target="_blank" rel="noopener noreferrer">📚 Library</a></td>
+  <td>Book library app: add/edit/remove books, toggle read status; data saved to localStorage.</td>
+  <td>HTML, CSS, JavaScript, DOM, LocalStorage</td>
+  <td><a href="https://rffkive.github.io/odin-library" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  <td><span aria-label="complete" title="Complete">✅ Complete</span></td>
+</tr>
 </table>
 
 ## 📁 Additional Learning Projects
@@ -85,6 +88,7 @@ odin-project/
 │  └─ calculator/           # JavaScript calculator
 │  └─ sign-up-form/         # sign up form with a proper grid
 │  └─ admin-dashboard/      # Admin dashboard with advanced grid
+│  └─ library/              # Library
 │
 ├─ learning/                # Smaller learning exercises (optional directory)
 │  ├─ git-test/             # Git command practice
