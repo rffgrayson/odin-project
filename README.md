@@ -58,7 +58,7 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td>✅ Complete</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/rffgrayson/admin-dashboard">🧮 Calculator</a></td>
+    <td><a href="https://github.com/rffkive/admin-dashboard">🧮 Admin dashboard</a></td>
     <td>Admin dashboard with a proper grid layout and good hover effect</td>
     <td>Advanced Grids, UI UX design</td>
     <td><a href="https://rffgrayson.github.io/admin-dashboard/">Live Demo</a></td>
@@ -78,6 +78,13 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td><a href="https://rffgrayson.github.io/odin-tic-tac-toe/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
+  <tr>
+  <td><a href="https://github.com/rffkive/odin-library" target="_blank" rel="noopener noreferrer">📚 Library</a></td>
+  <td>Book library app: add/edit/remove books, toggle read status; data saved to localStorage.</td>
+  <td>HTML, CSS, JavaScript, DOM, LocalStorage</td>
+  <td><a href="https://rffkive.github.io/odin-library" target="_blank" rel="noopener noreferrer">Live Demo</a></td>
+  <td><span aria-label="complete" title="Complete">✅ Complete</span></td>
+</tr>
 </table>
 
 ## 📁 Additional Learning Projects
