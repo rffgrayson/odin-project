@@ -33,3 +33,6 @@
 [submodule "admin-dashboard"]
 	path = admin-dashboard
 	url = https://github.com/rffkive/admin-dashboard
+[submodule "odin-tic-tac-toe"]
+	path = odin-tic-tac-toe
+	url = https://github.com/rffgrayson/odin-tic-tac-toe
