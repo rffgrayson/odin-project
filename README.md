@@ -99,6 +99,8 @@ odin-project/
 │  └─ calculator/           # JavaScript calculator
 │  └─ sign-up-form/         # sign up form with a proper grid
 │  └─ admin-dashboard/      # Admin dashboard with advanced grid
+│  └─ Ibrary/               # Library with focus on Class, static method or field, getter setter, private
+│  └─ tic-tac-toe/          # Tic tac toe with focus on IIFE or factory function
 │
 ├─ learning/                # Smaller learning exercises (optional directory)
 │  ├─ git-test/             # Git command practice
