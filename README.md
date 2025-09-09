@@ -4,7 +4,7 @@
   
   [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/odin-project?style=for-the-badge)](https://github.com/rffkive/odin-project/commits/main)
   [![Curriculum Progress](https://img.shields.io/badge/Progress-Javascript-orange?style=for-the-badge)](https://www.theodinproject.com/)
-  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-6-success?style=for-the-badge)](#projects-showcase)
+  [![Projects Completed](https://img.shields.io/badge/Projects_Completed-7-success?style=for-the-badge)](#projects-showcase)
   [![Development Environment](https://img.shields.io/badge/Dev_Environment-Xubuntu-blue?style=for-the-badge&logo=ubuntu&logoColor=white)](https://xubuntu.org/)
 </div>
 
@@ -37,31 +37,45 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rffkive/odin-etch-a-sketch">🎨 Etch-a-Sketch</a></td>
+    <td><a href="https://github.com/rffgrayson/odin-etch-a-sketch">🎨 Etch-a-Sketch</a></td>
     <td>Feature-rich drawing application with dynamic grid sizing, multiple color modes (classic, rainbow, shade), and a clean UI</td>
     <td>Advanced DOM Manipulation, Event Delegation, CSS Grid, UI/UX Design</td>
-    <td><a href="https://rffkive.github.io/odin-etch-a-sketch">Live Demo</a></td>
+    <td><a href="https://rffgrayson.github.io/odin-etch-a-sketch">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rffkive/odin-calculator">🧮 Calculator</a></td>
+    <td><a href="https://github.com/rffgrayson/odin-calculator">🧮 Calculator</a></td>
     <td>Mathematical calculator with standard operations, keyboard support, and error handling</td>
     <td>JavaScript Logic, UI State Management, Event Handling, Math Operations</td>
-    <td><a href="https://github.com/rffkive/odin-calculator/deployments/github-pages">Live Demo</a></td>
+    <td><a href="https://github.com/rffgrayson/odin-calculator/deployments/github-pages">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rffkive/sign-up-form">📄 Sign-Up Form</a></td>
+    <td><a href="https://github.com/rffgrayson/sign-up-form">📄 Sign-Up Form</a></td>
     <td>A form validation project featuring real-time feedback and clean layout using modern CSS practices</td>
     <td>HTML5 Forms, CSS Grid, Form Validation, UX Design</td>
-    <td><a href="https://rffkive.github.io/sign-up-form/">Live Demo</a></td>
+    <td><a href="https://rffgrayson.github.io/sign-up-form/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
    <tr>
-    <td><a href="./projects/calculator">🧮 Calculator</a></td>
+    <td><a href="https://github.com/rffgrayson/admin-dashboard">🧮 Calculator</a></td>
     <td>Admin dashboard with a proper grid layout and good hover effect</td>
     <td>Advanced Grids, UI UX design</td>
-    <td><a href="https://rffkive.github.io/admin-dashboard/">Live Demo</a></td>
+    <td><a href="https://rffgrayson.github.io/admin-dashboard/">Live Demo</a></td>
+    <td>✅ Complete</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rffgrayson/odin-library">Library</a></td>
+    <td>Library</td>
+    <td>Class, private field, static method, getter setter</td>
+    <td><a href="https://rffgrayson.github.io/odin-library/">Live Demo</a></td>
+    <td>✅ Complete</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rffgrayson/odin-tic-tac-toe">TIc tac toe</a></td>
+    <td>TIc tac toe</td>
+    <td>IIFE, factory function</td>
+    <td><a href="https://rffgrayson.github.io/odin-tic-tac-toe/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
 </table>
