@@ -65,14 +65,14 @@ This repository showcases my best projects from [The Odin Project](https://www.t
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rffgrayson/odin-library">Library</a></td>
+    <td><a href="https://github.com/rffgrayson/odin-library">📚 Library</a></td>
     <td>Library</td>
     <td>Class, private field, static method, getter setter</td>
     <td><a href="https://rffgrayson.github.io/odin-library/">Live Demo</a></td>
     <td>✅ Complete</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rffgrayson/odin-tic-tac-toe">TIc tac toe</a></td>
+    <td><a href="https://github.com/rffgrayson/odin-tic-tac-toe">🎲 Tic tac toe</a></td>
     <td>TIc tac toe</td>
     <td>IIFE, factory function</td>
     <td><a href="https://rffgrayson.github.io/odin-tic-tac-toe/">Live Demo</a></td>
